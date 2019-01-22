@@ -1,6 +1,6 @@
 # Python Druuid
 
-A python implementation of a date-realtive (and relatively universally unique)
+A python implementation of a date-relative (and relatively universally unique)
 UUID generator. It is based on the [original][1] implementation in Ruby.
 
 ## Concept
